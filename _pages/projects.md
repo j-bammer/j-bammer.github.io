@@ -1,7 +1,7 @@
 --
 layout: archive
-title: "Data Analytics"
-permalink: /analytics/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 header:
   image: "images/placeholder.jpg"
