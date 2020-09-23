@@ -1,2 +1,2 @@
-# j.bammer.github.io
+# j-bammer.github.io
 Personal Portfolio Website
