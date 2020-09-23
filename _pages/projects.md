@@ -7,9 +7,6 @@ header:
   image: "images/placeholder.jpg"
 --
 
-#Copy the code below and put it on the page where your projects will all be listed.
-#In my example video, that page is the "machinelearning.md" file.
-
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 

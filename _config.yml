@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Julian Bammer"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/placeholder_bio.jpg"
   bio              : "Aspiring Data Analyst"
   location         : "Amsterdam, Netherlands"
   email            :
