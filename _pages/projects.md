@@ -1,11 +1,11 @@
---
+---
 layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
 header:
   image: "images/placeholder.jpg"
---
+---
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
